@@ -1,0 +1,5 @@
+print(4)
+print(10,876)
+print('z')
+print('true')
+print('False')   
